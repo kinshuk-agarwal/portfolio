@@ -23,7 +23,7 @@ export default function Education() {
     };
 
     return (
-        <section className="bg-[#121212] py-24 px-6 md:px-16 lg:px-24 mb-16 border-t border-white/5">
+        <section className="bg-[#121212] py-24 px-6 md:px-16 lg:px-24 border-t border-white/5">
             <div className="max-w-7xl mx-auto">
                 <h2 className="group relative z-10 inline-block text-4xl md:text-5xl font-bold text-white mb-20 tracking-tighter w-fit transition-all duration-300 ease-out hover:text-[#ea580c] hover:tracking-[0.01em]">
                     Education

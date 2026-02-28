@@ -33,17 +33,9 @@ export default function Overlay({ scrollYProgress }: OverlayProps) {
                 <p className="text-xl md:text-3xl text-neutral-300 font-light mb-2">
                     AI & Backend Engineer.
                 </p>
-                <p className="text-md md:text-xl text-neutral-400 font-light max-w-2xl mb-8">
+                <p className="text-md md:text-xl text-neutral-400 font-light max-w-2xl">
                     Final-year B.E. Electronics & Instrumentation student at BITS Pilani.
                 </p>
-                <a
-                    href="https://drive.google.com/file/d/1-d8How6kJ5diN74FvIRH8DAchLq7vl-N/view?usp=sharing"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="pointer-events-auto px-6 py-2 text-sm rounded-full border border-white/15 bg-transparent text-white transition-all duration-200 ease-out hover:text-[#ea580c] hover:border-[#ea580c]"
-                >
-                    Resume ↗
-                </a>
             </motion.div>
 
             {/* Section 2 */}
