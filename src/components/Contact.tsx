@@ -29,7 +29,9 @@ export default function Contact() {
                     </a>
 
                     <a
-                        href="mailto:kinshukagarwal36@gmail.com"
+                        href="https://mail.google.com/mail/?view=cm&fs=1&to=kinshukagarwal36@gmail.com"
+                        target="_blank"
+                        rel="noopener noreferrer"
                         className="group relative text-white text-xl font-medium transition-colors duration-200 ease-out hover:text-[#ea580c] inline-flex items-center gap-1"
                     >
                         Email ↗
@@ -37,7 +39,7 @@ export default function Contact() {
                     </a>
 
                     <a
-                        href="/resume.pdf"
+                        href="https://drive.google.com/file/d/1-d8How6kJ5diN74FvIRH8DAchLq7vl-N/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group relative text-white text-xl font-medium transition-colors duration-200 ease-out hover:text-[#ea580c] inline-flex items-center gap-1"
